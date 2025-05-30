@@ -107,9 +107,18 @@ Initial release. Safe to install on production sites.
 
 ## Screenshots
 
-1. Review submission form (default)
-2. Star rating breakdown with average
-3. Paginated list of user reviews
+1. Review submission form (default, can be overridden)
+![Review submission form](/assets/screenshots/review-form.png)
+2. Star rating breakdown with average (default, can be overridden)
+![Star rating breakdown with average](/assets/screenshots/reviews-breakdown.png)
+3. Paginated list of user reviews (default, can be overridden)
+![Paginated list of user reviews](/assets/screenshots/reviews-list.png)
+4. Admin reviews page
+![Admin reviews page](/assets/screenshots/reviews-admin-table.png)
+5. Admin reviews page (single review)
+![Admin reviews page (single review)](/assets/screenshots/reviews-admin-single.png)
+6. Plugin settings page
+![Plugin settings page](/assets/screenshots/reviews-settings.png)
 
 ## License
 
